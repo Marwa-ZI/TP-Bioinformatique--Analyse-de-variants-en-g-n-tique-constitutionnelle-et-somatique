@@ -18,7 +18,7 @@ L'objectif est d'identifier les mutations somatiques acquises par les blastes ai
 
 L'environnement de TP est disponible en ligne via l'infrastructure Docker de l'Universite Paris Cite :
 
-**[Lancer l'environnement Jupyter](https://mydocker.universite-paris-saclay.fr/course/df98369f-0b3f-4efe-af02-8bc4955a03d0/magic-link)**
+**[Lancer l'environnement Jupyter](https://mydocker.universite-paris-saclay.fr/course/c7287ff9-2be1-4dfa-a201-e5bd8dd8d9b0/magic-link)**
 
 > Aucune installation locale necessaire. L'environnement inclut tous les outils NGS pre-installes (BWA, Samtools, FastQC, Qualimap, VarScan, VEP, IGV...) ainsi que les donnees cliniques.
 
